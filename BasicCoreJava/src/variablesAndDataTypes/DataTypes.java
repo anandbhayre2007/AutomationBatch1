@@ -2,8 +2,15 @@ package variablesAndDataTypes;
 
 public class DataTypes {
 	
+	//Class variables
+	public static String name="anand";
+	
+	//Instance variables
+	public int age=32;
+	
 	public static void main(String[] args) {
 		
+		//Local variables 
 		int age=32; //byte, short, long
 		String name="anand";
 		char gender='M';
